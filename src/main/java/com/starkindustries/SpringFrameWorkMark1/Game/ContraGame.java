@@ -1,5 +1,6 @@
 package com.starkindustries.SpringFrameWorkMark1.Game;
-
+import org.springframework.stereotype.Component;
+@Component
 public class ContraGame implements GamingConsole
 {
 	public void up()

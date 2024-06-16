@@ -1,5 +1,6 @@
 package com.starkindustries.SpringFrameWorkMark1.Game;
-
+import org.springframework.stereotype.Component;
+@Component
 public class GameRunner 
 {
 	public GamingConsole game;
